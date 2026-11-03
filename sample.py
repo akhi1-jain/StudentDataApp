@@ -1,9 +1,9 @@
 # 1. Hello World (The absolute basics)
-print("Hello, World!")
+print("Wake up boi, we have a city to burn.")
 
 # 2. Variables and User Input
 user_name = input("What is your name? ")
-print(f"Hello, {user_name}! Welcome to Python.")
+print(f"Hello, {user_name}! I'm Python, can we be friends?.")
 
 # 3. Simple Calculator (Basic Math & Conditionals)
 num1 = float(input("Enter first number: "))
